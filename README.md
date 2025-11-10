@@ -1,6 +1,4 @@
-# Enhanced Handwritten Mathematical Expression
-Recognition via Wavelet Feature Integration
-
+# Enhanced Handwritten Mathematical Expression Recognition via Wavelet Feature Integration
 Official implementation of **WaveMER**, a wavelet-enhanced dual-branch framework for Handwritten Mathematical Expression Recognition (HMER).  
 WaveMER integrates spatial features and frequency-domain cues to better capture fine-grained symbols, structures, and layout in handwritten mathematical expressions.
 
