@@ -11,7 +11,7 @@ from comer.utils.utils import (ExpRateRecorder, Hypothesis, ce_loss,
                                to_bi_tgt_out)
 
 
-class LitCoMER(pl.LightningModule):
+class Lit_WaveMER(pl.LightningModule):
     def __init__(
         self,
         d_model: int,
